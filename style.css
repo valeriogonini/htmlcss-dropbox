@@ -105,3 +105,32 @@ h1{
     padding: 15px 0;
 }
 
+/*main*/
+.section-1{
+    padding-top: 80px;
+}
+.h2-section1{
+    font-size: 40px;
+    padding-bottom: 40px;
+}
+.checkbox-round {
+    width: 1.3em;
+    height: 1.3em;
+    background-color: white;
+    border-radius: 50%;
+    vertical-align: middle;
+    border: 1px solid black;
+    appearance: none;
+    -webkit-appearance: none;
+    outline: none;
+    cursor: pointer;
+}
+.checkbox{
+    margin-right: 40px;
+}
+
+
+.col-33{
+    width: calc(100% / 3);
+}
+
