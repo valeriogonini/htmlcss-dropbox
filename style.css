@@ -132,5 +132,36 @@ h1{
 
 .col-33{
     width: calc(100% / 3);
+    padding-top: 30px;
 }
+.first-title{
+    text-align: center;
+    padding: 10px 0;
+    margin-right: 20px;
+    text-align: center;
+    border: 1px solid lightgray;
+}
+.professional{
+    padding: 30px;
+    margin-right: 20px;
+    border-left: 1px solid lightgray;
+    border-right: 1px solid lightgray;
+    border-bottom: 1px solid lightgray;
+}
+
+.competenze{
+    font-size: 25px;
+    margin-bottom: 15px;
+}
+.paga{
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+.lista-main{
+    padding-top: 50px;
+}
+.col-33 li {
+    margin-top: 15px;
+}
+
 
