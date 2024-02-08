@@ -58,7 +58,7 @@ button {
      gap: 25px;
 }
 .row .img-1{
-    width: 30px;
+    width: 100px;
     
     
 }
@@ -67,4 +67,39 @@ button {
     background-color: blue;
     color: white;
     min-height: 30px;
+}
+
+/*header-2*/
+.background-1{
+    background-color: rgb(180, 208, 231); 
+}
+.section-header{
+    padding-top: 50px;
+}
+h1{
+    font-size: 80px;
+}
+.col-30{
+    width: 30%;
+    font-size: 20px;
+    padding: 35px 0;
+    
+}
+.col-70{
+    width: 70%;
+    padding: 50px 0;
+
+}
+.arrow{
+    font-size: 80px;
+}
+.button-head{
+    background-color: blue;
+    padding: 0 15px;
+    min-height: 40px;
+    color: white;
+    font-size: 15px;
+}
+.padding-hd{
+    padding: 15px 0;
 }
