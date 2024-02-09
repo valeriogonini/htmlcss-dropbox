@@ -237,23 +237,23 @@ hr{
 .section-3{
     padding: 100px;
 }
-.col-60{
-    width: 60%;
+.col-50{
+    width: 50%;
 }
-.col-40{
-    width: 40%;
+.col-50{
+    width: 50%;
 }
 .section-3 h2{
     font-size: 30px;
-    font-weight: bold;
-    margin-top: 20%;
-    margin-bottom: 10%;
+    font-weight: 900;
+    margin-top: 10%;
+    margin-bottom: 5%;
     padding: 0 10%;
 
 }
 .section-3 p{
     padding: 0 10%;
-    margin-bottom: 10%;
+    margin-bottom: 5%;
 }
 .section-3 button{
     background-color: transparent;
