@@ -231,9 +231,34 @@ hr{
 }
 
 
-
+/*section-3*/
 
 
 .section-3{
     padding: 100px;
+}
+.col-60{
+    width: 60%;
+}
+.col-40{
+    width: 40%;
+}
+.section-3 h2{
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 20%;
+    margin-bottom: 10%;
+    padding: 0 10%;
+
+}
+.section-3 p{
+    padding: 0 10%;
+    margin-bottom: 10%;
+}
+.section-3 button{
+    background-color: transparent;
+    padding: 0 20px;
+    min-height: 40px;
+    border: 1px solid black;
+    padding:0 10% ;
 }
