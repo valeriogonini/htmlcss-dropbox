@@ -314,3 +314,42 @@ hr{
 .section-6{
     padding-top: 100px;
 }
+.col-100-{
+    width: 100%;
+}
+.col-50-{
+    display: flex;
+    height: 412.93px;
+    width: calc(100% / 3);
+    
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    
+}
+.quadrati{
+    flex-wrap: wrap;
+    width: 50%;
+    height: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.quadrato-5{
+    background-color: rgb(237, 231, 231);
+    display: block;
+    padding: 30px;
+    
+}
+.quadrati img{
+   width: 100px;
+}
+.hr-section6{
+    border: 1px solid gray;
+    width: 80px;
+    margin-top: 30px;
+}
+.p-section6{
+   margin-top: 30px;
+   margin-bottom: 30px;
+}
