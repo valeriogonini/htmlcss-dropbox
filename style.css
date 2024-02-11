@@ -379,3 +379,21 @@ padding: 10px 50px;
 
 
 /*section-8*/
+
+.section-8{
+    
+    padding: 100px 0;
+}
+.section-8 h2{
+    font-size: 40px;
+    
+}
+.hr-section8{
+    border: 1px solid gray;
+    width: 100%;
+    margin-bottom: 50px;
+}
+.fa-angle-down{
+   margin-left: 200px;
+   font-size: 25px;
+}
