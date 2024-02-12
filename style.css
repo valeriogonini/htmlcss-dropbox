@@ -119,6 +119,10 @@ h1{
 .section-1{
     padding-top: 80px;
 }
+.card{
+    padding-top: 20px;
+    padding-bottom: 50px;
+}
 .h2-section1{
     font-size: 40px;
     padding-bottom: 40px;
