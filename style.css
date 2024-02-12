@@ -356,6 +356,9 @@ hr{
    margin-top: 30px;
    margin-bottom: 30px;
 }
+.bordo-quadrato{
+    border: 10px solid rgb(105, 189, 105);
+}
 
 /*section-7*/
 
