@@ -416,6 +416,10 @@ footer{
     color: white;
     padding: 100px 0px;
 }
+.row-footer{
+    display: flex;
+    justify-content: space-between;
+}
 
 .li-footer{
     padding-right: 70px;
