@@ -364,6 +364,9 @@ hr{
 .bordo-quadrato{
     border: 10px solid rgb(105, 189, 105);
 }
+.col-50- img{
+    filter: invert(1);
+}
 
 /*section-7*/
 
@@ -384,9 +387,7 @@ background-color: white;
 padding: 10px 50px;
 
 }
-.col-50- img{
-    filter: invert(1);
-}
+
 
 
 /*section-8*/
