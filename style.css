@@ -376,6 +376,9 @@ background-color: white;
 padding: 10px 50px;
 
 }
+.col-50- img{
+    filter: invert(1);
+}
 
 
 /*section-8*/
